@@ -1,0 +1,84 @@
+﻿@model List<GetConfirmationArticleListDTO> 
+<div class="card col-md-8 offset-2 mt-5">
+    <div class="card-body">
+        <div class="card-text"><h3>Onay Bekleyen Makale Listesi</h3></div>
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th>Makale Başlık</th>
+                    <th>Yazar</th>  
+                </tr>
+            </thead>
+            <tbody>
+
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@item.Title</td>
+                        <td>@item.Appuser.FullName</td> 
+                        <td>
+                            <a asp-action="ArticleApproval" asp-route-id="@item.Id" class="btn btn-success btn-sm">Onay</a>
+                            <a href="" data-toggle="modal" data-target="#redModal" data-id="@item.Id" class="btn btn-danger btn-sm">
+                                Red
+                            </a>
+                            <a asp-action="ArticleDetail" asp-route-id="@item.Id" asp-route-sayfa="user" class="btn btn-info btn-sm">İncele</a>
+                        </td>
+                    </tr>
+                }
+
+            </tbody>
+        </table>
+
+    </div>
+</div>
+
+
+<!-- Modal -->
+<div class="modal fade" id="redModal" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">Uyarı</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                Reddetmek istediğinizden emin misiniz?
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">Hayır</button>
+                <button id="btnSil" type="button" class="btn btn-primary">Evet</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts{
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $("#redModal").on("show.bs.modal", function (event) {
+                let tetikleyenElement = $(event.relatedTarget);
+                let id = tetikleyenElement.data("id");
+
+                $("#btnSil").click(function () {
+                    $.ajax({
+                        type: "Get",
+                        url: "./RejectionArticle",
+                        data: { id: id },
+                        dataType: "json",
+                        contentType: "application/json; charset=utf-8;",
+                        success: function () {
+                            //alert("işlem tamam");
+                            window.location.reload();
+                        },
+                        error: function (error) {
+                            alert(error.statusText);
+                        }
+                    })
+                });
+            })
+        });
+    </script>
+
+}

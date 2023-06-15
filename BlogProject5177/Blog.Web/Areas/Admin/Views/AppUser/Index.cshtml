@@ -1,0 +1,66 @@
+﻿<div class="row mt-3"> 
+    <div class="row mb-3">
+        <div class="col-md-4">
+            <div class="card text-white text-center bg-primary mb-3">
+                <div class="card-body">
+                    <h4 class="card-title">Onay Bekleyen Kullanıcılar</h4> 
+                    @if (ViewBag.OnayBekleyenKullanici > 0)
+                    {
+                        <p class="card-text display-4">@ViewBag.OnayBekleyenKullanici</p>
+                        <p class="">
+                            <a asp-area="Admin" asp-action="ConfirmationUserList" asp-controller="AppUser" class="btn btn-light btn-sm">İncele</a>
+                        </p>
+                    }
+                    else
+                    {
+                        <p class="card-text lead">
+                            Onay Bekleyen Kullanıcı Bulunmamaktadır.
+                        </p>
+                    }
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="card text-white text-center bg-primary mb-3">
+                <div class="card-body">
+                    <h4 class="card-title">Onay Bekleyen Kategoriler</h4>
+
+                    @if (ViewBag.OnayBekleyenKategori > 0)
+                    {
+                        <p class="card-text display-4">@ViewBag.OnayBekleyenKategori</p>
+                        <p class="">
+                            <a asp-action="ConfirmationCategoryList" asp-controller="Category" class="btn btn-light btn-sm">İncele</a>
+                        </p>
+                    }
+                    else
+                    {
+                        <p class="card-text lead">
+                            Onay Bekleyen Kategori Bulunmamaktadır.
+                        </p>
+                    }
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="card text-white text-center bg-primary mb-3">
+                <div class="card-body">
+                    <h4 class="card-title">Onay Bekleyen Makaleler</h4>
+
+                    @if (ViewBag.OnayBekleyenMakale > 0)
+                    {
+                        <p class="card-text display-4">@ViewBag.OnayBekleyenMakale</p>
+                        <p class="">
+                            <a asp-action="ConfirmationArticleList" asp-controller="Article" class="btn btn-light btn-sm">İncele</a>
+                        </p>
+                    }
+                    else
+                    {
+                        <p class="card-text lead">
+                            Onay Bekleyen Makale Bulunmamaktadır.
+                        </p>
+                    }
+                </div>
+            </div>
+        </div>
+    </div> 
+</div>

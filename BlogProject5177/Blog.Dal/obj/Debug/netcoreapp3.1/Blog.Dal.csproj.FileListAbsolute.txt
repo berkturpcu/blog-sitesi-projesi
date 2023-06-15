@@ -1,0 +1,80 @@
+C:\Users\berk\Desktop\proje uğr\BlogProject5177-master\Blog.Dal\bin\Debug\netcoreapp3.1\Blog.Dal.deps.json
+C:\Users\berk\Desktop\proje uğr\BlogProject5177-master\Blog.Dal\bin\Debug\netcoreapp3.1\Blog.Dal.runtimeconfig.json
+C:\Users\berk\Desktop\proje uğr\BlogProject5177-master\Blog.Dal\bin\Debug\netcoreapp3.1\Blog.Dal.runtimeconfig.dev.json
+C:\Users\berk\Desktop\proje uğr\BlogProject5177-master\Blog.Dal\bin\Debug\netcoreapp3.1\Blog.Dal.dll
+C:\Users\berk\Desktop\proje uğr\BlogProject5177-master\Blog.Dal\bin\Debug\netcoreapp3.1\Blog.Dal.pdb
+C:\Users\berk\Desktop\proje uğr\BlogProject5177-master\Blog.Dal\bin\Debug\netcoreapp3.1\Blog.Model.dll
+C:\Users\berk\Desktop\proje uğr\BlogProject5177-master\Blog.Dal\bin\Debug\netcoreapp3.1\Blog.Model.pdb
+C:\Users\berk\Desktop\proje uğr\BlogProject5177-master\Blog.Dal\obj\Debug\netcoreapp3.1\Blog.Dal.csproj.AssemblyReference.cache
+C:\Users\berk\Desktop\proje uğr\BlogProject5177-master\Blog.Dal\obj\Debug\netcoreapp3.1\Blog.Dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berk\Desktop\proje uğr\BlogProject5177-master\Blog.Dal\obj\Debug\netcoreapp3.1\Blog.Dal.AssemblyInfoInputs.cache
+C:\Users\berk\Desktop\proje uğr\BlogProject5177-master\Blog.Dal\obj\Debug\netcoreapp3.1\Blog.Dal.AssemblyInfo.cs
+C:\Users\berk\Desktop\proje uğr\BlogProject5177-master\Blog.Dal\obj\Debug\netcoreapp3.1\Blog.Dal.csproj.CoreCompileInputs.cache
+C:\Users\berk\Desktop\proje uğr\BlogProject5177-master\Blog.Dal\obj\Debug\netcoreapp3.1\Blog.Dal.csproj.CopyComplete
+C:\Users\berk\Desktop\proje uğr\BlogProject5177-master\Blog.Dal\obj\Debug\netcoreapp3.1\Blog.Dal.dll
+C:\Users\berk\Desktop\proje uğr\BlogProject5177-master\Blog.Dal\obj\Debug\netcoreapp3.1\Blog.Dal.pdb
+C:\Users\berk\Desktop\proje uğr\BlogProject5177-master\Blog.Dal\obj\Debug\netcoreapp3.1\Blog.Dal.genruntimeconfig.cache
+C:\Users\berk\Desktop\proje blog son hali\BlogProject5177-master\Blog.Dal\bin\Debug\netcoreapp3.1\Blog.Dal.deps.json
+C:\Users\berk\Desktop\proje blog son hali\BlogProject5177-master\Blog.Dal\bin\Debug\netcoreapp3.1\Blog.Dal.runtimeconfig.json
+C:\Users\berk\Desktop\proje blog son hali\BlogProject5177-master\Blog.Dal\bin\Debug\netcoreapp3.1\Blog.Dal.runtimeconfig.dev.json
+C:\Users\berk\Desktop\proje blog son hali\BlogProject5177-master\Blog.Dal\bin\Debug\netcoreapp3.1\Blog.Dal.dll
+C:\Users\berk\Desktop\proje blog son hali\BlogProject5177-master\Blog.Dal\bin\Debug\netcoreapp3.1\Blog.Dal.pdb
+C:\Users\berk\Desktop\proje blog son hali\BlogProject5177-master\Blog.Dal\bin\Debug\netcoreapp3.1\Blog.Model.dll
+C:\Users\berk\Desktop\proje blog son hali\BlogProject5177-master\Blog.Dal\bin\Debug\netcoreapp3.1\Blog.Model.pdb
+C:\Users\berk\Desktop\proje blog son hali\BlogProject5177-master\Blog.Dal\obj\Debug\netcoreapp3.1\Blog.Dal.csproj.AssemblyReference.cache
+C:\Users\berk\Desktop\proje blog son hali\BlogProject5177-master\Blog.Dal\obj\Debug\netcoreapp3.1\Blog.Dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berk\Desktop\proje blog son hali\BlogProject5177-master\Blog.Dal\obj\Debug\netcoreapp3.1\Blog.Dal.AssemblyInfoInputs.cache
+C:\Users\berk\Desktop\proje blog son hali\BlogProject5177-master\Blog.Dal\obj\Debug\netcoreapp3.1\Blog.Dal.AssemblyInfo.cs
+C:\Users\berk\Desktop\proje blog son hali\BlogProject5177-master\Blog.Dal\obj\Debug\netcoreapp3.1\Blog.Dal.csproj.CoreCompileInputs.cache
+C:\Users\berk\Desktop\proje blog son hali\BlogProject5177-master\Blog.Dal\obj\Debug\netcoreapp3.1\Blog.Dal.csproj.CopyComplete
+C:\Users\berk\Desktop\proje blog son hali\BlogProject5177-master\Blog.Dal\obj\Debug\netcoreapp3.1\Blog.Dal.dll
+C:\Users\berk\Desktop\proje blog son hali\BlogProject5177-master\Blog.Dal\obj\Debug\netcoreapp3.1\Blog.Dal.pdb
+C:\Users\berk\Desktop\proje blog son hali\BlogProject5177-master\Blog.Dal\obj\Debug\netcoreapp3.1\Blog.Dal.genruntimeconfig.cache
+C:\Users\berk\Desktop\proje blog son hali\BlogProject5177\Blog.Dal\bin\Debug\netcoreapp3.1\Blog.Dal.deps.json
+C:\Users\berk\Desktop\proje blog son hali\BlogProject5177\Blog.Dal\bin\Debug\netcoreapp3.1\Blog.Dal.runtimeconfig.json
+C:\Users\berk\Desktop\proje blog son hali\BlogProject5177\Blog.Dal\bin\Debug\netcoreapp3.1\Blog.Dal.runtimeconfig.dev.json
+C:\Users\berk\Desktop\proje blog son hali\BlogProject5177\Blog.Dal\bin\Debug\netcoreapp3.1\Blog.Dal.dll
+C:\Users\berk\Desktop\proje blog son hali\BlogProject5177\Blog.Dal\bin\Debug\netcoreapp3.1\Blog.Dal.pdb
+C:\Users\berk\Desktop\proje blog son hali\BlogProject5177\Blog.Dal\bin\Debug\netcoreapp3.1\Blog.Model.dll
+C:\Users\berk\Desktop\proje blog son hali\BlogProject5177\Blog.Dal\bin\Debug\netcoreapp3.1\Blog.Model.pdb
+C:\Users\berk\Desktop\proje blog son hali\BlogProject5177\Blog.Dal\obj\Debug\netcoreapp3.1\Blog.Dal.csproj.AssemblyReference.cache
+C:\Users\berk\Desktop\proje blog son hali\BlogProject5177\Blog.Dal\obj\Debug\netcoreapp3.1\Blog.Dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berk\Desktop\proje blog son hali\BlogProject5177\Blog.Dal\obj\Debug\netcoreapp3.1\Blog.Dal.AssemblyInfoInputs.cache
+C:\Users\berk\Desktop\proje blog son hali\BlogProject5177\Blog.Dal\obj\Debug\netcoreapp3.1\Blog.Dal.AssemblyInfo.cs
+C:\Users\berk\Desktop\proje blog son hali\BlogProject5177\Blog.Dal\obj\Debug\netcoreapp3.1\Blog.Dal.csproj.CoreCompileInputs.cache
+C:\Users\berk\Desktop\proje blog son hali\BlogProject5177\Blog.Dal\obj\Debug\netcoreapp3.1\Blog.Dal.csproj.CopyComplete
+C:\Users\berk\Desktop\proje blog son hali\BlogProject5177\Blog.Dal\obj\Debug\netcoreapp3.1\Blog.Dal.dll
+C:\Users\berk\Desktop\proje blog son hali\BlogProject5177\Blog.Dal\obj\Debug\netcoreapp3.1\Blog.Dal.pdb
+C:\Users\berk\Desktop\proje blog son hali\BlogProject5177\Blog.Dal\obj\Debug\netcoreapp3.1\Blog.Dal.genruntimeconfig.cache
+C:\Users\berk\Desktop\BlogProject5177\Blog.Dal\bin\Debug\netcoreapp3.1\Blog.Dal.deps.json
+C:\Users\berk\Desktop\BlogProject5177\Blog.Dal\bin\Debug\netcoreapp3.1\Blog.Dal.runtimeconfig.json
+C:\Users\berk\Desktop\BlogProject5177\Blog.Dal\bin\Debug\netcoreapp3.1\Blog.Dal.runtimeconfig.dev.json
+C:\Users\berk\Desktop\BlogProject5177\Blog.Dal\bin\Debug\netcoreapp3.1\Blog.Dal.dll
+C:\Users\berk\Desktop\BlogProject5177\Blog.Dal\bin\Debug\netcoreapp3.1\Blog.Dal.pdb
+C:\Users\berk\Desktop\BlogProject5177\Blog.Dal\bin\Debug\netcoreapp3.1\Blog.Model.dll
+C:\Users\berk\Desktop\BlogProject5177\Blog.Dal\bin\Debug\netcoreapp3.1\Blog.Model.pdb
+C:\Users\berk\Desktop\BlogProject5177\Blog.Dal\obj\Debug\netcoreapp3.1\Blog.Dal.csproj.AssemblyReference.cache
+C:\Users\berk\Desktop\BlogProject5177\Blog.Dal\obj\Debug\netcoreapp3.1\Blog.Dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berk\Desktop\BlogProject5177\Blog.Dal\obj\Debug\netcoreapp3.1\Blog.Dal.AssemblyInfoInputs.cache
+C:\Users\berk\Desktop\BlogProject5177\Blog.Dal\obj\Debug\netcoreapp3.1\Blog.Dal.AssemblyInfo.cs
+C:\Users\berk\Desktop\BlogProject5177\Blog.Dal\obj\Debug\netcoreapp3.1\Blog.Dal.csproj.CoreCompileInputs.cache
+C:\Users\berk\Desktop\BlogProject5177\Blog.Dal\obj\Debug\netcoreapp3.1\Blog.Dal.csproj.CopyComplete
+C:\Users\berk\Desktop\BlogProject5177\Blog.Dal\obj\Debug\netcoreapp3.1\Blog.Dal.dll
+C:\Users\berk\Desktop\BlogProject5177\Blog.Dal\obj\Debug\netcoreapp3.1\Blog.Dal.pdb
+C:\Users\berk\Desktop\BlogProject5177\Blog.Dal\obj\Debug\netcoreapp3.1\Blog.Dal.genruntimeconfig.cache
+C:\Users\berk\Desktop\blog\BlogProject5177\Blog.Dal\bin\Debug\netcoreapp3.1\Blog.Dal.deps.json
+C:\Users\berk\Desktop\blog\BlogProject5177\Blog.Dal\bin\Debug\netcoreapp3.1\Blog.Dal.runtimeconfig.json
+C:\Users\berk\Desktop\blog\BlogProject5177\Blog.Dal\bin\Debug\netcoreapp3.1\Blog.Dal.runtimeconfig.dev.json
+C:\Users\berk\Desktop\blog\BlogProject5177\Blog.Dal\bin\Debug\netcoreapp3.1\Blog.Dal.dll
+C:\Users\berk\Desktop\blog\BlogProject5177\Blog.Dal\bin\Debug\netcoreapp3.1\Blog.Dal.pdb
+C:\Users\berk\Desktop\blog\BlogProject5177\Blog.Dal\bin\Debug\netcoreapp3.1\Blog.Model.dll
+C:\Users\berk\Desktop\blog\BlogProject5177\Blog.Dal\bin\Debug\netcoreapp3.1\Blog.Model.pdb
+C:\Users\berk\Desktop\blog\BlogProject5177\Blog.Dal\obj\Debug\netcoreapp3.1\Blog.Dal.csproj.AssemblyReference.cache
+C:\Users\berk\Desktop\blog\BlogProject5177\Blog.Dal\obj\Debug\netcoreapp3.1\Blog.Dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berk\Desktop\blog\BlogProject5177\Blog.Dal\obj\Debug\netcoreapp3.1\Blog.Dal.AssemblyInfoInputs.cache
+C:\Users\berk\Desktop\blog\BlogProject5177\Blog.Dal\obj\Debug\netcoreapp3.1\Blog.Dal.AssemblyInfo.cs
+C:\Users\berk\Desktop\blog\BlogProject5177\Blog.Dal\obj\Debug\netcoreapp3.1\Blog.Dal.csproj.CoreCompileInputs.cache
+C:\Users\berk\Desktop\blog\BlogProject5177\Blog.Dal\obj\Debug\netcoreapp3.1\Blog.Dal.csproj.CopyComplete
+C:\Users\berk\Desktop\blog\BlogProject5177\Blog.Dal\obj\Debug\netcoreapp3.1\Blog.Dal.dll
+C:\Users\berk\Desktop\blog\BlogProject5177\Blog.Dal\obj\Debug\netcoreapp3.1\Blog.Dal.pdb
+C:\Users\berk\Desktop\blog\BlogProject5177\Blog.Dal\obj\Debug\netcoreapp3.1\Blog.Dal.genruntimeconfig.cache
